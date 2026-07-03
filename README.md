@@ -41,4 +41,3 @@ From a fixed source city, Dijkstra's algorithm computes the shortest weighted di
 - A sparse random graph is often, but not guaranteed to be, fully connected — component analysis is essential to verify this rather than assume it.
 - DFS-based component discovery and Dijkstra's shortest-path algorithm are complementary tools: one answers "can I get there at all?" and the other answers "what's the cheapest way to get there?"
 - The farthest-city analysis highlights how shortest-path algorithms can be used beyond simple point-to-point queries — e.g., identifying network eccentricity, a step toward concepts like graph diameter and radius.
-
